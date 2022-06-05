@@ -9,6 +9,7 @@ class ProductDetailsPage:
     def __init__(self, driver):
         self.driver = driver
 
+    headerProduct = (By.XPATH, "//h1[@itemprop='name']")
     dropdownSize = (By.XPATH, "//select[@id='group_1']")
     option_M_dropdownSize = (By.XPATH, "//select[@id='group_1']/option[@title='M']")
     btnAddToCart = (By.XPATH, "//p[@id='add_to_cart']//span[text()='Add to cart']")
@@ -21,6 +22,10 @@ class ProductDetailsPage:
         actions.click_element(self.option_M_dropdownSize, "Option M")
         actions.click_element(self.btnAddToCart, "Add to Cart Button")
         actions.waitForElementVisible(self.btnProceedToCheckout, 30, "Cart Pop Up")
+
+    def getProductHeader(self, log):
+        actions = Actions(self.driver, log)
+        return actions.getText(self.headerProduct, "Product Header")
 
     def getCartSuccessMessage(self, log):
         actions = Actions(self.driver, log)

@@ -15,7 +15,6 @@ class SearchResultPage:
     def selectItem(self, log):
         actions = Actions(self.driver, log)
         productDetailsPage = ProductDetailsPage(self.driver)
-
         actions.click_element(self.sectionFirstResult, "First Result Item")
         return productDetailsPage
 

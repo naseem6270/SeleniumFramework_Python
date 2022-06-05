@@ -7,8 +7,14 @@ class MyAccountPage:
     def __init__(self, driver):
         self.driver = driver
 
+    headerMyAccountPage = (By.XPATH, "//h1[@class='page-heading']")
     linkSignOut = (By.XPATH, "//a[@title='Log me out']")
     breadCrumbHomePage = (By.XPATH, "//div[contains(@class, 'breadcrumb')]//a[@title='Return to Home']")
+
+    def getHeader(self, log):
+        actions = Actions(self.driver, log)
+        return actions.getText(self.headerMyAccountPage, "My Account Header")
+
 
     def signingOut(self, log):
         actions = Actions(self.driver, log)

@@ -1,4 +1,5 @@
 import pytest
+from selenium.webdriver.common import actions
 
 from frameworkstuffs.controller.BaseClass import BaseClass
 from frameworkstuffs.utlities.Actions import Actions
@@ -12,40 +13,44 @@ class TestLogin(BaseClass):
     def get_login_data(self, request):
         return request.param
 
+    @pytest.fixture(autouse=True)
+    def classobject(self):
+        self.log = self.getLogger()
+        self.homepage = HomePage(self.driver)
+        self.actions = Actions(self.driver, self.log)
+
+
     @pytest.mark.loginScenarios
-    def test_validlogin(self, get_login_data):
-        log = self.getLogger()
-        homepage = HomePage(self.driver)
-        actions = Actions(self.driver, log)
-        actions.launch_url(get_login_data["url"])
-        loginpage = homepage.navigateToTheLoginPage(log)
-        myAccountPage = loginpage.login(log, get_login_data["emailID"], get_login_data["password"])
-        myAccountPage.signingOut(log)
+    @pytest.mark.run(order=1)
+    def test_shouldLoginUser_WhenCredentialsAreValid(self, get_login_data):
+
+        self.actions.launch_url(get_login_data["url"])
+        loginpage = self.homepage.navigateToTheLoginPage(self.log)
+        myAccountPage = loginpage.login(self.log, get_login_data["emailID"], get_login_data["password"])
+        headerMyAccPage = myAccountPage.getHeader(self.log)
+        assert headerMyAccPage == "MY ACCOUNT"
+        myAccountPage.signingOut(self.log)
 
     @pytest.mark.InvalidloginScenarios
-    def test_Invalidlogin(self, get_login_data):
-        log = self.getLogger()
-        homepage = HomePage(self.driver)
-        actions = Actions(self.driver, log)
+    @pytest.mark.run(order=2)
+    def test_shouldNotLoginUser_WhenCredentialsAreInValid(self, get_login_data):
 
-        actions.launch_url(get_login_data["url"])
-        loginpage = homepage.navigateToTheLoginPage(log)
-        loginpage.login(log, get_login_data["emailID"], "Invalid Password")
 
-        errorMsg = actions.getText(loginpage.txtError, "Error Message")
+        self.actions.launch_url(get_login_data["url"])
+        loginpage = self.homepage.navigateToTheLoginPage(self.log)
+        loginpage.login(self.log, get_login_data["emailID"], "Invalid Password")
+
+        errorMsg = self.actions.getText(loginpage.txtError, "Error Message")
 
         assert errorMsg == "Authentication failed."
 
     @pytest.mark.InvalidloginScenarios
-    def test_BlankUserId(self, get_login_data):
-        log = self.getLogger()
-        homepage = HomePage(self.driver)
-        actions = Actions(self.driver, log)
+    @pytest.mark.run(order=3)
+    def test_shouldNotLoginUser_WhenPasswordIsBlank(self, get_login_data):
+        self.actions.launch_url(get_login_data["url"])
+        loginpage = self.homepage.navigateToTheLoginPage(self.log)
+        loginpage.login(self.log, "", get_login_data["password"])
 
-        actions.launch_url(get_login_data["url"])
-        loginpage = homepage.navigateToTheLoginPage(log)
-        loginpage.login(log, "", get_login_data["password"])
-
-        errorMsg = actions.getText(loginpage.txtError, "Error Message")
+        errorMsg = self.actions.getText(loginpage.txtError, "Error Message")
 
         assert errorMsg == "An email address required."

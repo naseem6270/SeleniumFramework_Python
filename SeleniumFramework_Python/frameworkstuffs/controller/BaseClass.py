@@ -4,7 +4,7 @@ from pathlib import Path
 
 import pytest
 
-@pytest.mark.usefixtures("setup")
+@pytest.mark.usefixtures("classLevelSetUp")
 class BaseClass:
     ROOT_PATH = str(Path(__file__).parent.parent.parent)
 

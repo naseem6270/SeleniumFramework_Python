@@ -12,7 +12,7 @@ def pytest_addoption(parser):
 
 
 @pytest.fixture(scope="class")
-def setup(request):
+def classLevelSetUp(request):
     global driver
     browser_name = request.config.getoption("browser_name")
 
@@ -30,6 +30,12 @@ def setup(request):
     request.cls.driver = driver
     yield
     driver.close()
+
+@pytest.fixture()
+def methodLevelSetUp():
+    print('Before Method')
+    yield
+    print('After Method')
 
 @pytest.mark.hookwrapper
 def pytest_runtest_makereport(item):

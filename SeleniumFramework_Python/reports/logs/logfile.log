@@ -1208,3 +1208,1025 @@
 2022-05-02 21:40:56,463 :INFO : test_SummaryPage :Clicked on element Delete Icon
 2022-05-02 21:40:57,720 :INFO : test_SummaryPage :Returning text as Your shopping cart is empty. from element Empty Cart Msg
 2022-05-02 21:40:59,151 :INFO : test_SummaryPage :Clicked on element Sign Out link
+2022-05-31 10:21:07,169 :INFO : test_validlogin :Launched URL http://automationpractice.multiformis.com
+2022-05-31 10:21:08,953 :INFO : test_validlogin :Clicked on element Sign In link
+2022-05-31 10:21:08,999 :INFO : test_validlogin :Clicked on element Username text field
+2022-05-31 10:21:09,068 :INFO : test_validlogin :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 10:21:09,116 :INFO : test_validlogin :Clicked on element Password text field
+2022-05-31 10:21:09,155 :INFO : test_validlogin :Entered value as Password@123 on element Password text field
+2022-05-31 10:21:10,729 :INFO : test_validlogin :Clicked on element Submit button
+2022-05-31 10:21:12,485 :INFO : test_validlogin :Clicked on element Sign Out link
+2022-05-31 10:21:13,767 :INFO : test_Invalidlogin :Launched URL http://automationpractice.multiformis.com
+2022-05-31 10:21:15,034 :INFO : test_Invalidlogin :Clicked on element Sign In link
+2022-05-31 10:21:15,088 :INFO : test_Invalidlogin :Clicked on element Username text field
+2022-05-31 10:21:15,149 :INFO : test_Invalidlogin :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 10:21:15,198 :INFO : test_Invalidlogin :Clicked on element Password text field
+2022-05-31 10:21:15,239 :INFO : test_Invalidlogin :Entered value as Invalid Password on element Password text field
+2022-05-31 10:21:15,974 :INFO : test_Invalidlogin :Clicked on element Submit button
+2022-05-31 10:21:16,002 :INFO : test_Invalidlogin :Returning text as Authentication failed. from element Error Message
+2022-05-31 10:21:17,300 :INFO : test_BlankUserId :Launched URL http://automationpractice.multiformis.com
+2022-05-31 10:21:18,550 :INFO : test_BlankUserId :Clicked on element Sign In link
+2022-05-31 10:21:18,599 :INFO : test_BlankUserId :Clicked on element Username text field
+2022-05-31 10:21:18,630 :INFO : test_BlankUserId :Entered value as  on element Username text field
+2022-05-31 10:21:18,668 :INFO : test_BlankUserId :Clicked on element Password text field
+2022-05-31 10:21:18,700 :INFO : test_BlankUserId :Entered value as Password@123 on element Password text field
+2022-05-31 10:21:19,407 :INFO : test_BlankUserId :Clicked on element Submit button
+2022-05-31 10:21:19,423 :INFO : test_BlankUserId :Returning text as An email address required. from element Error Message
+2022-05-31 10:24:08,248 :INFO : test_validlogin :Launched URL http://automationpractice.multiformis.com
+2022-05-31 10:24:09,971 :INFO : test_validlogin :Clicked on element Sign In link
+2022-05-31 10:24:10,021 :INFO : test_validlogin :Clicked on element Username text field
+2022-05-31 10:24:10,086 :INFO : test_validlogin :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 10:24:10,136 :INFO : test_validlogin :Clicked on element Password text field
+2022-05-31 10:24:10,174 :INFO : test_validlogin :Entered value as Password@123 on element Password text field
+2022-05-31 10:24:11,625 :INFO : test_validlogin :Clicked on element Submit button
+2022-05-31 10:24:13,802 :INFO : test_validlogin :Clicked on element Sign Out link
+2022-05-31 10:24:15,238 :INFO : test_Invalidlogin :Launched URL http://automationpractice.multiformis.com
+2022-05-31 10:24:16,765 :INFO : test_Invalidlogin :Clicked on element Sign In link
+2022-05-31 10:24:16,804 :INFO : test_Invalidlogin :Clicked on element Username text field
+2022-05-31 10:24:16,857 :INFO : test_Invalidlogin :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 10:24:16,898 :INFO : test_Invalidlogin :Clicked on element Password text field
+2022-05-31 10:24:16,934 :INFO : test_Invalidlogin :Entered value as Invalid Password on element Password text field
+2022-05-31 10:24:17,715 :INFO : test_Invalidlogin :Clicked on element Submit button
+2022-05-31 10:24:17,740 :INFO : test_Invalidlogin :Returning text as Authentication failed. from element Error Message
+2022-05-31 10:24:18,971 :INFO : test_BlankUserId :Launched URL http://automationpractice.multiformis.com
+2022-05-31 10:24:20,206 :INFO : test_BlankUserId :Clicked on element Sign In link
+2022-05-31 10:24:20,259 :INFO : test_BlankUserId :Clicked on element Username text field
+2022-05-31 10:24:20,293 :INFO : test_BlankUserId :Entered value as  on element Username text field
+2022-05-31 10:24:20,334 :INFO : test_BlankUserId :Clicked on element Password text field
+2022-05-31 10:24:20,368 :INFO : test_BlankUserId :Entered value as Password@123 on element Password text field
+2022-05-31 10:24:21,077 :INFO : test_BlankUserId :Clicked on element Submit button
+2022-05-31 10:24:21,099 :INFO : test_BlankUserId :Returning text as An email address required. from element Error Message
+2022-05-31 10:24:29,755 :INFO : test_searchProduct :Launched URL http://automationpractice.multiformis.com
+2022-05-31 10:24:31,470 :INFO : test_searchProduct :Clicked on element Sign In link
+2022-05-31 10:24:31,517 :INFO : test_searchProduct :Clicked on element Username text field
+2022-05-31 10:24:31,588 :INFO : test_searchProduct :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 10:24:31,639 :INFO : test_searchProduct :Clicked on element Password text field
+2022-05-31 10:24:31,672 :INFO : test_searchProduct :Entered value as Password@123 on element Password text field
+2022-05-31 10:24:33,150 :INFO : test_searchProduct :Clicked on element Submit button
+2022-05-31 10:24:34,563 :INFO : test_searchProduct :Clicked on element Bread Crumb Home Page Icon
+2022-05-31 10:24:34,620 :INFO : test_searchProduct :Clicked on element Search text field
+2022-05-31 10:24:34,653 :INFO : test_searchProduct :Entered value as T-shirts on element Search text field
+2022-05-31 10:24:36,025 :INFO : test_searchProduct :Clicked on element Search button
+2022-05-31 10:24:37,891 :INFO : test_searchProduct :Clicked on element First Result Item
+2022-05-31 10:24:37,963 :INFO : test_addingItemToTheCart :Clicked on element Size drop down
+2022-05-31 10:24:38,030 :INFO : test_addingItemToTheCart :Clicked on element Option M
+2022-05-31 10:24:38,080 :INFO : test_addingItemToTheCart :Clicked on element Add to Cart Button
+2022-05-31 10:24:39,176 :INFO : test_addingItemToTheCart :Returning text as Product successfully added to your shopping cart from element Success Message
+2022-05-31 10:24:40,416 :INFO : test_addingItemToTheCart :Clicked on element Proceed to Checkout Button
+2022-05-31 10:24:40,445 :INFO : test_SummaryPage :Returning text as Your shopping cart contains: 1 product from element Cart Item Count
+2022-05-31 10:24:40,490 :INFO : test_SummaryPage :Clicked on element Delete Icon
+2022-05-31 10:24:41,802 :INFO : test_SummaryPage :Returning text as Your shopping cart is empty. from element Empty Cart Msg
+2022-05-31 10:24:43,065 :INFO : test_SummaryPage :Clicked on element Sign Out link
+2022-05-31 10:50:09,196 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 10:50:11,126 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign In link
+2022-05-31 10:50:11,209 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Username text field
+2022-05-31 10:50:11,318 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 10:50:11,414 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Password text field
+2022-05-31 10:50:11,494 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as Password@123 on element Password text field
+2022-05-31 10:50:13,059 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Submit button
+2022-05-31 10:50:15,435 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign Out link
+2022-05-31 10:50:17,068 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 10:50:18,785 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Sign In link
+2022-05-31 10:50:18,848 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Username text field
+2022-05-31 10:50:18,936 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 10:50:19,016 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Password text field
+2022-05-31 10:50:19,136 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as Invalid Password on element Password text field
+2022-05-31 10:50:20,074 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Submit button
+2022-05-31 10:50:20,109 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Returning text as Authentication failed. from element Error Message
+2022-05-31 10:50:21,945 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Launched URL http://automationpractice.multiformis.com
+2022-05-31 10:50:23,608 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Sign In link
+2022-05-31 10:50:23,679 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Username text field
+2022-05-31 10:50:23,728 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as  on element Username text field
+2022-05-31 10:50:23,802 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Password text field
+2022-05-31 10:50:23,856 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as Password@123 on element Password text field
+2022-05-31 10:50:24,723 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Submit button
+2022-05-31 10:50:24,755 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Returning text as An email address required. from element Error Message
+2022-05-31 10:51:01,882 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 10:51:07,031 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign In link
+2022-05-31 10:51:07,143 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Username text field
+2022-05-31 10:51:07,295 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 10:51:07,375 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Password text field
+2022-05-31 10:51:07,463 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as Password@123 on element Password text field
+2022-05-31 10:51:09,089 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Submit button
+2022-05-31 10:51:11,009 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign Out link
+2022-05-31 10:51:13,005 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 10:51:14,370 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Sign In link
+2022-05-31 10:51:14,454 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Username text field
+2022-05-31 10:51:14,574 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 10:51:14,656 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Password text field
+2022-05-31 10:51:14,720 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as Invalid Password on element Password text field
+2022-05-31 10:51:15,603 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Submit button
+2022-05-31 10:51:15,643 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Returning text as Authentication failed. from element Error Message
+2022-05-31 10:51:17,083 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Launched URL http://automationpractice.multiformis.com
+2022-05-31 10:51:18,502 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Sign In link
+2022-05-31 10:51:18,577 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Username text field
+2022-05-31 10:51:18,649 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as  on element Username text field
+2022-05-31 10:51:18,721 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Password text field
+2022-05-31 10:51:18,785 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as Password@123 on element Password text field
+2022-05-31 10:51:20,022 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Submit button
+2022-05-31 10:51:20,054 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Returning text as An email address required. from element Error Message
+2022-05-31 10:55:51,902 :INFO : test_searchProduct :Launched URL http://automationpractice.multiformis.com
+2022-05-31 10:55:53,797 :INFO : test_searchProduct :Clicked on element Sign In link
+2022-05-31 10:55:53,897 :INFO : test_searchProduct :Clicked on element Username text field
+2022-05-31 10:55:54,007 :INFO : test_searchProduct :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 10:55:54,117 :INFO : test_searchProduct :Clicked on element Password text field
+2022-05-31 10:55:54,189 :INFO : test_searchProduct :Entered value as Password@123 on element Password text field
+2022-05-31 10:55:55,743 :INFO : test_searchProduct :Clicked on element Submit button
+2022-05-31 10:55:57,246 :INFO : test_searchProduct :Clicked on element Bread Crumb Home Page Icon
+2022-05-31 10:55:57,350 :INFO : test_searchProduct :Clicked on element Search text field
+2022-05-31 10:55:57,406 :INFO : test_searchProduct :Entered value as T-shirts on element Search text field
+2022-05-31 10:55:59,141 :INFO : test_searchProduct :Clicked on element Search button
+2022-05-31 10:57:04,158 :INFO : test_searchProduct :Clicked on element First Result Item
+2022-05-31 11:11:06,728 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:11:08,525 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign In link
+2022-05-31 11:11:08,583 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Username text field
+2022-05-31 11:11:08,642 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:11:08,697 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Password text field
+2022-05-31 11:11:08,741 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as Password@123 on element Password text field
+2022-05-31 11:11:10,238 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Submit button
+2022-05-31 11:11:11,908 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign Out link
+2022-05-31 11:11:13,213 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:11:14,477 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Sign In link
+2022-05-31 11:11:14,521 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Username text field
+2022-05-31 11:11:14,582 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:11:14,623 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Password text field
+2022-05-31 11:11:14,661 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as Invalid Password on element Password text field
+2022-05-31 11:11:15,364 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Submit button
+2022-05-31 11:11:15,390 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Returning text as Authentication failed. from element Error Message
+2022-05-31 11:11:16,638 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:11:17,980 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Sign In link
+2022-05-31 11:11:18,025 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Username text field
+2022-05-31 11:11:18,069 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as  on element Username text field
+2022-05-31 11:11:18,114 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Password text field
+2022-05-31 11:11:18,148 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as Password@123 on element Password text field
+2022-05-31 11:11:19,778 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Submit button
+2022-05-31 11:11:19,797 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Returning text as An email address required. from element Error Message
+2022-05-31 11:11:43,069 :INFO : test_searchProduct :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:11:44,789 :INFO : test_searchProduct :Clicked on element Sign In link
+2022-05-31 11:11:44,838 :INFO : test_searchProduct :Clicked on element Username text field
+2022-05-31 11:11:44,897 :INFO : test_searchProduct :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:11:44,949 :INFO : test_searchProduct :Clicked on element Password text field
+2022-05-31 11:11:44,987 :INFO : test_searchProduct :Entered value as Password@123 on element Password text field
+2022-05-31 11:11:46,441 :INFO : test_searchProduct :Clicked on element Submit button
+2022-05-31 11:11:47,748 :INFO : test_searchProduct :Clicked on element Bread Crumb Home Page Icon
+2022-05-31 11:11:47,797 :INFO : test_searchProduct :Clicked on element Search text field
+2022-05-31 11:11:47,841 :INFO : test_searchProduct :Entered value as T-shirts on element Search text field
+2022-05-31 11:11:49,095 :INFO : test_searchProduct :Clicked on element Search button
+2022-05-31 11:11:50,589 :INFO : test_searchProduct :Clicked on element First Result Item
+2022-05-31 11:11:50,610 :INFO : test_searchProduct :Returning text as Faded Short Sleeves T-shirt from element Product Header
+2022-05-31 11:15:03,135 :INFO : test_searchProduct :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:15:04,891 :INFO : test_searchProduct :Clicked on element Sign In link
+2022-05-31 11:15:04,944 :INFO : test_searchProduct :Clicked on element Username text field
+2022-05-31 11:15:05,008 :INFO : test_searchProduct :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:15:05,058 :INFO : test_searchProduct :Clicked on element Password text field
+2022-05-31 11:15:05,094 :INFO : test_searchProduct :Entered value as Password@123 on element Password text field
+2022-05-31 11:15:06,528 :INFO : test_searchProduct :Clicked on element Submit button
+2022-05-31 11:15:07,841 :INFO : test_searchProduct :Clicked on element Bread Crumb Home Page Icon
+2022-05-31 11:15:07,895 :INFO : test_searchProduct :Clicked on element Search text field
+2022-05-31 11:15:07,925 :INFO : test_searchProduct :Entered value as T-shirts on element Search text field
+2022-05-31 11:15:09,374 :INFO : test_searchProduct :Clicked on element Search button
+2022-05-31 11:15:10,830 :INFO : test_searchProduct :Clicked on element First Result Item
+2022-05-31 11:15:10,853 :INFO : test_searchProduct :Returning text as Faded Short Sleeves T-shirt from element Product Header
+2022-05-31 11:16:12,672 :INFO : test_searchProduct :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:16:14,402 :INFO : test_searchProduct :Clicked on element Sign In link
+2022-05-31 11:16:14,457 :INFO : test_searchProduct :Clicked on element Username text field
+2022-05-31 11:16:14,522 :INFO : test_searchProduct :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:16:14,573 :INFO : test_searchProduct :Clicked on element Password text field
+2022-05-31 11:16:14,610 :INFO : test_searchProduct :Entered value as Password@123 on element Password text field
+2022-05-31 11:16:16,099 :INFO : test_searchProduct :Clicked on element Submit button
+2022-05-31 11:16:17,618 :INFO : test_searchProduct :Clicked on element Bread Crumb Home Page Icon
+2022-05-31 11:16:17,670 :INFO : test_searchProduct :Clicked on element Search text field
+2022-05-31 11:16:17,703 :INFO : test_searchProduct :Entered value as T-shirts on element Search text field
+2022-05-31 11:16:19,088 :INFO : test_searchProduct :Clicked on element Search button
+2022-05-31 11:16:21,468 :INFO : test_searchProduct :Clicked on element First Result Item
+2022-05-31 11:16:21,493 :INFO : test_searchProduct :Returning text as Faded Short Sleeves T-shirt from element Product Header
+2022-05-31 11:17:31,849 :INFO : test_searchProduct :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:17:33,683 :INFO : test_searchProduct :Clicked on element Sign In link
+2022-05-31 11:17:33,725 :INFO : test_searchProduct :Clicked on element Username text field
+2022-05-31 11:17:33,788 :INFO : test_searchProduct :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:17:33,850 :INFO : test_searchProduct :Clicked on element Password text field
+2022-05-31 11:17:33,883 :INFO : test_searchProduct :Entered value as Password@123 on element Password text field
+2022-05-31 11:17:35,396 :INFO : test_searchProduct :Clicked on element Submit button
+2022-05-31 11:17:36,839 :INFO : test_searchProduct :Clicked on element Bread Crumb Home Page Icon
+2022-05-31 11:17:36,886 :INFO : test_searchProduct :Clicked on element Search text field
+2022-05-31 11:17:36,928 :INFO : test_searchProduct :Entered value as T-shirts on element Search text field
+2022-05-31 11:17:36,974 :INFO : test_searchProduct :Clicked on element Search button
+2022-05-31 11:17:39,818 :INFO : test_searchProduct :Clicked on element First Result Item
+2022-05-31 11:17:39,837 :INFO : test_searchProduct :Returning text as Faded Short Sleeves T-shirt from element Product Header
+2022-05-31 11:17:39,906 :INFO : test_addingItemToTheCart :Clicked on element Size drop down
+2022-05-31 11:17:39,982 :INFO : test_addingItemToTheCart :Clicked on element Option M
+2022-05-31 11:17:40,031 :INFO : test_addingItemToTheCart :Clicked on element Add to Cart Button
+2022-05-31 11:17:41,124 :INFO : test_addingItemToTheCart :Returning text as Product successfully added to your shopping cart from element Success Message
+2022-05-31 11:17:42,353 :INFO : test_addingItemToTheCart :Clicked on element Proceed to Checkout Button
+2022-05-31 11:17:42,382 :INFO : test_SummaryPage :Returning text as Your shopping cart contains: 1 product from element Cart Item Count
+2022-05-31 11:17:42,422 :INFO : test_SummaryPage :Clicked on element Delete Icon
+2022-05-31 11:17:43,614 :INFO : test_SummaryPage :Returning text as Your shopping cart is empty. from element Empty Cart Msg
+2022-05-31 11:17:44,796 :INFO : test_SummaryPage :Clicked on element Sign Out link
+2022-05-31 11:21:52,826 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:21:54,848 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign In link
+2022-05-31 11:21:54,898 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Username text field
+2022-05-31 11:21:54,959 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:21:55,008 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Password text field
+2022-05-31 11:21:55,044 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as Password@123 on element Password text field
+2022-05-31 11:21:56,804 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Submit button
+2022-05-31 11:21:58,501 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign Out link
+2022-05-31 11:21:59,752 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:22:01,162 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Sign In link
+2022-05-31 11:22:01,210 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Username text field
+2022-05-31 11:22:01,260 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:22:01,302 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Password text field
+2022-05-31 11:22:01,341 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as Invalid Password on element Password text field
+2022-05-31 11:22:02,047 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Submit button
+2022-05-31 11:22:02,071 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Returning text as Authentication failed. from element Error Message
+2022-05-31 11:22:03,283 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:22:04,511 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Sign In link
+2022-05-31 11:22:04,552 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Username text field
+2022-05-31 11:22:04,582 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as  on element Username text field
+2022-05-31 11:22:04,623 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Password text field
+2022-05-31 11:22:04,657 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as Password@123 on element Password text field
+2022-05-31 11:22:05,375 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Submit button
+2022-05-31 11:22:05,392 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Returning text as An email address required. from element Error Message
+2022-05-31 11:22:13,767 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:22:15,505 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Sign In link
+2022-05-31 11:22:15,549 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Username text field
+2022-05-31 11:22:15,612 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:22:15,670 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Password text field
+2022-05-31 11:22:15,703 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Entered value as Password@123 on element Password text field
+2022-05-31 11:22:17,165 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Submit button
+2022-05-31 11:22:18,421 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Bread Crumb Home Page Icon
+2022-05-31 11:22:18,474 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Search text field
+2022-05-31 11:22:18,508 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Entered value as T-shirts on element Search text field
+2022-05-31 11:22:19,904 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Search button
+2022-05-31 11:22:21,401 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element First Result Item
+2022-05-31 11:22:21,421 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Returning text as Faded Short Sleeves T-shirt from element Product Header
+2022-05-31 11:22:21,686 :INFO : test_shouldAddItemToTheCart :Clicked on element Size drop down
+2022-05-31 11:22:21,772 :INFO : test_shouldAddItemToTheCart :Clicked on element Option M
+2022-05-31 11:22:21,818 :INFO : test_shouldAddItemToTheCart :Clicked on element Add to Cart Button
+2022-05-31 11:22:22,914 :INFO : test_shouldAddItemToTheCart :Returning text as Product successfully added to your shopping cart from element Success Message
+2022-05-31 11:26:18,127 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:26:19,862 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Sign In link
+2022-05-31 11:26:19,901 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Username text field
+2022-05-31 11:26:19,963 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:26:20,005 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Password text field
+2022-05-31 11:26:20,054 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Entered value as Password@123 on element Password text field
+2022-05-31 11:26:21,854 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Submit button
+2022-05-31 11:26:24,086 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Bread Crumb Home Page Icon
+2022-05-31 11:26:24,132 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Search text field
+2022-05-31 11:26:24,165 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Entered value as T-shirts on element Search text field
+2022-05-31 11:26:25,437 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Search button
+2022-05-31 11:26:26,921 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element First Result Item
+2022-05-31 11:26:26,942 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Returning text as Faded Short Sleeves T-shirt from element Product Header
+2022-05-31 11:26:27,011 :INFO : test_shouldAddItemToTheCart :Clicked on element Size drop down
+2022-05-31 11:26:27,094 :INFO : test_shouldAddItemToTheCart :Clicked on element Option M
+2022-05-31 11:26:27,138 :INFO : test_shouldAddItemToTheCart :Clicked on element Add to Cart Button
+2022-05-31 11:26:28,225 :INFO : test_shouldAddItemToTheCart :Returning text as Product successfully added to your shopping cart from element Success Message
+2022-05-31 11:27:45,309 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:27:47,045 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign In link
+2022-05-31 11:27:47,085 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Username text field
+2022-05-31 11:27:47,148 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:27:47,209 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Password text field
+2022-05-31 11:27:47,247 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as Password@123 on element Password text field
+2022-05-31 11:27:48,737 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Submit button
+2022-05-31 11:27:50,411 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign Out link
+2022-05-31 11:27:51,685 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:27:52,888 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Sign In link
+2022-05-31 11:27:52,931 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Username text field
+2022-05-31 11:27:52,987 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:27:53,031 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Password text field
+2022-05-31 11:27:53,069 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as Invalid Password on element Password text field
+2022-05-31 11:27:53,776 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Submit button
+2022-05-31 11:27:53,796 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Returning text as Authentication failed. from element Error Message
+2022-05-31 11:27:55,007 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:27:56,242 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Sign In link
+2022-05-31 11:27:56,283 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Username text field
+2022-05-31 11:27:56,316 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as  on element Username text field
+2022-05-31 11:27:56,362 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Password text field
+2022-05-31 11:27:56,396 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as Password@123 on element Password text field
+2022-05-31 11:27:57,099 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Submit button
+2022-05-31 11:27:57,116 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Returning text as An email address required. from element Error Message
+2022-05-31 11:28:05,095 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:28:06,790 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Sign In link
+2022-05-31 11:28:06,840 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Username text field
+2022-05-31 11:28:06,898 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:28:06,951 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Password text field
+2022-05-31 11:28:06,990 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Entered value as Password@123 on element Password text field
+2022-05-31 11:28:08,489 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Submit button
+2022-05-31 11:28:10,002 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Bread Crumb Home Page Icon
+2022-05-31 11:28:10,070 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Search text field
+2022-05-31 11:28:10,102 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Entered value as T-shirts on element Search text field
+2022-05-31 11:28:11,279 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Search button
+2022-05-31 11:28:12,728 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element First Result Item
+2022-05-31 11:28:12,749 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Returning text as Faded Short Sleeves T-shirt from element Product Header
+2022-05-31 11:28:12,820 :INFO : test_shouldAddItemToTheCart :Clicked on element Size drop down
+2022-05-31 11:28:12,884 :INFO : test_shouldAddItemToTheCart :Clicked on element Option M
+2022-05-31 11:28:23,279 :INFO : test_shouldAddItemToTheCart :Clicked on element Add to Cart Button
+2022-05-31 11:28:24,366 :INFO : test_shouldAddItemToTheCart :Returning text as Product successfully added to your shopping cart from element Success Message
+2022-05-31 11:28:25,928 :INFO : test_ShouldEmptyCart_WhenUserRemovesTheItem :Clicked on element Proceed to Checkout Button
+2022-05-31 11:28:25,975 :INFO : test_ShouldEmptyCart_WhenUserRemovesTheItem :Clicked on element Delete Icon
+2022-05-31 11:28:27,197 :INFO : test_ShouldEmptyCart_WhenUserRemovesTheItem :Returning text as Your shopping cart is empty. from element Empty Cart Msg
+2022-05-31 11:28:28,450 :INFO : test_ShouldEmptyCart_WhenUserRemovesTheItem :Clicked on element Sign Out link
+2022-05-31 11:31:08,846 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:31:10,521 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign In link
+2022-05-31 11:31:10,568 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Username text field
+2022-05-31 11:31:10,632 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:31:10,686 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Password text field
+2022-05-31 11:31:10,725 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as Password@123 on element Password text field
+2022-05-31 11:31:12,176 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Submit button
+2022-05-31 11:31:13,852 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign Out link
+2022-05-31 11:31:15,094 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:31:16,508 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Sign In link
+2022-05-31 11:31:16,552 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Username text field
+2022-05-31 11:31:16,611 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:31:16,652 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Password text field
+2022-05-31 11:31:16,700 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as Invalid Password on element Password text field
+2022-05-31 11:31:17,396 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Submit button
+2022-05-31 11:31:17,415 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Returning text as Authentication failed. from element Error Message
+2022-05-31 11:31:18,604 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:31:19,878 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Sign In link
+2022-05-31 11:31:19,917 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Username text field
+2022-05-31 11:31:19,949 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as  on element Username text field
+2022-05-31 11:31:19,995 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Password text field
+2022-05-31 11:31:20,031 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as Password@123 on element Password text field
+2022-05-31 11:31:20,736 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Submit button
+2022-05-31 11:31:20,753 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Returning text as An email address required. from element Error Message
+2022-05-31 11:31:28,768 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:31:30,417 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Sign In link
+2022-05-31 11:31:30,472 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Username text field
+2022-05-31 11:31:30,534 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:31:30,588 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Password text field
+2022-05-31 11:31:30,626 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Entered value as Password@123 on element Password text field
+2022-05-31 11:31:32,063 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Submit button
+2022-05-31 11:31:33,293 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Bread Crumb Home Page Icon
+2022-05-31 11:31:33,355 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Search text field
+2022-05-31 11:31:33,390 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Entered value as T-shirts on element Search text field
+2022-05-31 11:31:34,632 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Search button
+2022-05-31 11:31:36,368 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element First Result Item
+2022-05-31 11:31:36,390 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Returning text as Faded Short Sleeves T-shirt from element Product Header
+2022-05-31 11:31:36,465 :INFO : test_shouldAddItemToTheCart :Clicked on element Size drop down
+2022-05-31 11:31:36,538 :INFO : test_shouldAddItemToTheCart :Clicked on element Option M
+2022-05-31 11:31:41,952 :INFO : test_shouldAddItemToTheCart :Clicked on element Add to Cart Button
+2022-05-31 11:31:43,034 :INFO : test_shouldAddItemToTheCart :Returning text as Product successfully added to your shopping cart from element Success Message
+2022-05-31 11:31:44,533 :INFO : test_ShouldEmptyCart_WhenUserRemovesTheItem :Clicked on element Proceed to Checkout Button
+2022-05-31 11:31:44,581 :INFO : test_ShouldEmptyCart_WhenUserRemovesTheItem :Clicked on element Delete Icon
+2022-05-31 11:31:45,791 :INFO : test_ShouldEmptyCart_WhenUserRemovesTheItem :Returning text as Your shopping cart is empty. from element Empty Cart Msg
+2022-05-31 11:31:47,019 :INFO : test_ShouldEmptyCart_WhenUserRemovesTheItem :Clicked on element Sign Out link
+2022-05-31 11:32:56,477 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:32:58,147 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign In link
+2022-05-31 11:32:58,191 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Username text field
+2022-05-31 11:32:58,254 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:32:58,303 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Password text field
+2022-05-31 11:32:58,344 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as Password@123 on element Password text field
+2022-05-31 11:32:59,955 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Submit button
+2022-05-31 11:33:01,838 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign Out link
+2022-05-31 11:33:03,059 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:33:04,281 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Sign In link
+2022-05-31 11:33:04,319 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Username text field
+2022-05-31 11:33:04,366 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:33:04,406 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Password text field
+2022-05-31 11:33:04,439 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as Invalid Password on element Password text field
+2022-05-31 11:33:05,168 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Submit button
+2022-05-31 11:33:05,192 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Returning text as Authentication failed. from element Error Message
+2022-05-31 11:33:06,406 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:33:07,679 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Sign In link
+2022-05-31 11:33:07,719 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Username text field
+2022-05-31 11:33:07,751 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as  on element Username text field
+2022-05-31 11:33:07,795 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Password text field
+2022-05-31 11:33:07,826 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as Password@123 on element Password text field
+2022-05-31 11:33:08,530 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Submit button
+2022-05-31 11:33:08,547 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Returning text as An email address required. from element Error Message
+2022-05-31 11:33:16,480 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:33:18,183 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Sign In link
+2022-05-31 11:33:18,226 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Username text field
+2022-05-31 11:33:18,282 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:33:18,334 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Password text field
+2022-05-31 11:33:18,370 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Entered value as Password@123 on element Password text field
+2022-05-31 11:33:19,847 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Submit button
+2022-05-31 11:33:21,074 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Bread Crumb Home Page Icon
+2022-05-31 11:33:21,129 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Search text field
+2022-05-31 11:33:21,159 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Entered value as T-shirts on element Search text field
+2022-05-31 11:33:22,523 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element Search button
+2022-05-31 11:33:24,028 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Clicked on element First Result Item
+2022-05-31 11:33:24,051 :INFO : test_shouldShowProductDetailsPage_WhenSelectItFromTheList :Returning text as Faded Short Sleeves T-shirt from element Product Header
+2022-05-31 11:33:24,122 :INFO : test_shouldAddItemToTheCart :Clicked on element Size drop down
+2022-05-31 11:33:24,189 :INFO : test_shouldAddItemToTheCart :Clicked on element Option M
+2022-05-31 11:33:24,239 :INFO : test_shouldAddItemToTheCart :Clicked on element Add to Cart Button
+2022-05-31 11:33:25,332 :INFO : test_shouldAddItemToTheCart :Returning text as Product successfully added to your shopping cart from element Success Message
+2022-05-31 11:33:26,577 :INFO : test_ShouldEmptyCart_WhenUserRemovesTheItem :Clicked on element Proceed to Checkout Button
+2022-05-31 11:33:26,621 :INFO : test_ShouldEmptyCart_WhenUserRemovesTheItem :Clicked on element Delete Icon
+2022-05-31 11:33:27,822 :INFO : test_ShouldEmptyCart_WhenUserRemovesTheItem :Returning text as Your shopping cart is empty. from element Empty Cart Msg
+2022-05-31 11:33:29,039 :INFO : test_ShouldEmptyCart_WhenUserRemovesTheItem :Clicked on element Sign Out link
+2022-05-31 11:36:05,789 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:36:07,508 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign In link
+2022-05-31 11:36:07,560 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Username text field
+2022-05-31 11:36:07,622 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:36:07,682 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Password text field
+2022-05-31 11:36:07,719 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as Password@123 on element Password text field
+2022-05-31 11:36:09,196 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Submit button
+2022-05-31 11:36:10,923 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign Out link
+2022-05-31 11:36:12,399 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:36:13,594 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Sign In link
+2022-05-31 11:36:13,641 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Username text field
+2022-05-31 11:36:13,695 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:36:13,737 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Password text field
+2022-05-31 11:36:13,787 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as Invalid Password on element Password text field
+2022-05-31 11:36:14,526 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Submit button
+2022-05-31 11:36:14,545 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Returning text as Authentication failed. from element Error Message
+2022-05-31 11:36:15,761 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:36:16,972 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Sign In link
+2022-05-31 11:36:17,013 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Username text field
+2022-05-31 11:36:17,044 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as  on element Username text field
+2022-05-31 11:36:17,086 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Password text field
+2022-05-31 11:36:17,117 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as Password@123 on element Password text field
+2022-05-31 11:36:17,817 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Submit button
+2022-05-31 11:36:17,835 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Returning text as An email address required. from element Error Message
+2022-05-31 11:37:15,307 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:37:16,975 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign In link
+2022-05-31 11:37:17,031 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Username text field
+2022-05-31 11:37:17,078 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:37:17,136 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Password text field
+2022-05-31 11:37:17,169 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as Password@123 on element Password text field
+2022-05-31 11:37:18,616 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Submit button
+2022-05-31 11:37:20,308 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign Out link
+2022-05-31 11:37:22,748 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:37:24,006 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Sign In link
+2022-05-31 11:37:24,049 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Username text field
+2022-05-31 11:37:24,101 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:37:24,143 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Password text field
+2022-05-31 11:37:24,178 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as Invalid Password on element Password text field
+2022-05-31 11:37:24,898 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Submit button
+2022-05-31 11:37:24,921 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Returning text as Authentication failed. from element Error Message
+2022-05-31 11:37:26,157 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:37:27,367 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Sign In link
+2022-05-31 11:37:27,418 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Username text field
+2022-05-31 11:37:27,448 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as  on element Username text field
+2022-05-31 11:37:27,494 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Password text field
+2022-05-31 11:37:27,527 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as Password@123 on element Password text field
+2022-05-31 11:37:28,233 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Submit button
+2022-05-31 11:37:28,255 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Returning text as An email address required. from element Error Message
+2022-05-31 11:38:25,168 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:38:27,039 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign In link
+2022-05-31 11:38:27,079 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Username text field
+2022-05-31 11:38:27,142 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:38:27,196 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Password text field
+2022-05-31 11:38:27,231 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as Password@123 on element Password text field
+2022-05-31 11:38:28,667 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Submit button
+2022-05-31 11:38:30,361 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign Out link
+2022-05-31 11:38:31,767 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:38:33,211 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Sign In link
+2022-05-31 11:38:33,263 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Username text field
+2022-05-31 11:38:33,318 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:38:33,358 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Password text field
+2022-05-31 11:38:33,400 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as Invalid Password on element Password text field
+2022-05-31 11:38:34,117 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Submit button
+2022-05-31 11:38:34,139 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Returning text as Authentication failed. from element Error Message
+2022-05-31 11:38:35,362 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:38:36,587 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Sign In link
+2022-05-31 11:38:36,626 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Username text field
+2022-05-31 11:38:36,656 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as  on element Username text field
+2022-05-31 11:38:36,700 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Password text field
+2022-05-31 11:38:36,737 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as Password@123 on element Password text field
+2022-05-31 11:38:37,431 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Submit button
+2022-05-31 11:38:37,452 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Returning text as An email address required. from element Error Message
+2022-05-31 11:39:53,690 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:39:55,780 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign In link
+2022-05-31 11:39:55,832 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Username text field
+2022-05-31 11:39:55,897 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:39:55,947 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Password text field
+2022-05-31 11:39:55,983 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as Password@123 on element Password text field
+2022-05-31 11:39:57,461 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Submit button
+2022-05-31 11:39:59,173 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign Out link
+2022-05-31 11:40:00,880 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:40:02,157 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Sign In link
+2022-05-31 11:40:02,197 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Username text field
+2022-05-31 11:40:02,248 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:40:02,289 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Password text field
+2022-05-31 11:40:02,324 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as Invalid Password on element Password text field
+2022-05-31 11:40:03,081 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Submit button
+2022-05-31 11:40:03,101 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Returning text as Authentication failed. from element Error Message
+2022-05-31 11:40:04,450 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:40:05,705 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Sign In link
+2022-05-31 11:40:05,747 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Username text field
+2022-05-31 11:40:05,780 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as  on element Username text field
+2022-05-31 11:40:05,823 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Password text field
+2022-05-31 11:40:05,855 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as Password@123 on element Password text field
+2022-05-31 11:40:06,568 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Submit button
+2022-05-31 11:40:06,586 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Returning text as An email address required. from element Error Message
+2022-05-31 11:47:53,981 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:47:55,709 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign In link
+2022-05-31 11:47:55,758 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Username text field
+2022-05-31 11:47:55,820 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:47:55,869 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Password text field
+2022-05-31 11:47:55,909 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as Password@123 on element Password text field
+2022-05-31 11:47:57,411 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Submit button
+2022-05-31 11:47:57,431 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Returning text as MY ACCOUNT from element My Account Header
+2022-05-31 11:47:58,937 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:48:49,971 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:48:51,692 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign In link
+2022-05-31 11:48:51,749 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Username text field
+2022-05-31 11:48:51,808 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:48:51,858 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Password text field
+2022-05-31 11:48:51,895 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as Password@123 on element Password text field
+2022-05-31 11:48:53,398 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Submit button
+2022-05-31 11:48:53,420 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Returning text as MY ACCOUNT from element My Account Header
+2022-05-31 11:48:54,917 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:49:16,972 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Sign In link
+2022-05-31 11:49:17,017 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Username text field
+2022-05-31 11:49:17,069 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:49:17,113 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Password text field
+2022-05-31 11:49:17,150 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as Invalid Password on element Password text field
+2022-05-31 11:49:17,888 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Submit button
+2022-05-31 11:49:17,909 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Returning text as Authentication failed. from element Error Message
+2022-05-31 11:49:19,138 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:49:20,534 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Sign In link
+2022-05-31 11:49:20,583 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Username text field
+2022-05-31 11:49:20,614 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as  on element Username text field
+2022-05-31 11:49:20,658 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Password text field
+2022-05-31 11:49:20,690 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as Password@123 on element Password text field
+2022-05-31 11:49:21,415 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Submit button
+2022-05-31 11:49:21,436 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Returning text as An email address required. from element Error Message
+2022-05-31 11:51:00,292 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:51:02,115 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign In link
+2022-05-31 11:51:02,162 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Username text field
+2022-05-31 11:51:02,226 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:51:02,275 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Password text field
+2022-05-31 11:51:02,316 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as Password@123 on element Password text field
+2022-05-31 11:51:03,819 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Submit button
+2022-05-31 11:51:03,842 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Returning text as MY ACCOUNT from element My Account Header
+2022-05-31 11:51:05,371 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:51:56,295 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:51:58,026 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign In link
+2022-05-31 11:51:58,078 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Username text field
+2022-05-31 11:51:58,143 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:51:58,197 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Password text field
+2022-05-31 11:51:58,241 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as Password@123 on element Password text field
+2022-05-31 11:51:59,683 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Submit button
+2022-05-31 11:51:59,707 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Returning text as MY ACCOUNT from element My Account Header
+2022-05-31 11:53:23,969 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:53:25,713 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign In link
+2022-05-31 11:53:25,760 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Username text field
+2022-05-31 11:53:25,820 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:53:25,874 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Password text field
+2022-05-31 11:53:25,907 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as Password@123 on element Password text field
+2022-05-31 11:53:27,439 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Submit button
+2022-05-31 11:53:27,460 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Returning text as MY ACCOUNT from element My Account Header
+2022-05-31 11:53:29,215 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign Out link
+2022-05-31 11:53:30,454 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:53:31,737 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Sign In link
+2022-05-31 11:53:31,778 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Username text field
+2022-05-31 11:53:31,826 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 11:53:31,867 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Password text field
+2022-05-31 11:53:31,911 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as Invalid Password on element Password text field
+2022-05-31 11:53:32,663 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Submit button
+2022-05-31 11:53:32,684 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Returning text as Authentication failed. from element Error Message
+2022-05-31 11:53:33,901 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Launched URL http://automationpractice.multiformis.com
+2022-05-31 11:53:35,141 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Sign In link
+2022-05-31 11:53:35,181 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Username text field
+2022-05-31 11:53:35,212 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as  on element Username text field
+2022-05-31 11:53:35,259 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Password text field
+2022-05-31 11:53:35,302 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as Password@123 on element Password text field
+2022-05-31 11:53:36,007 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Submit button
+2022-05-31 11:53:36,023 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Returning text as An email address required. from element Error Message
+2022-05-31 13:48:08,126 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 13:48:10,151 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign In link
+2022-05-31 13:48:10,213 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Username text field
+2022-05-31 13:48:10,282 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 13:48:10,351 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Password text field
+2022-05-31 13:48:10,409 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as Password@123 on element Password text field
+2022-05-31 13:48:12,176 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Submit button
+2022-05-31 13:48:12,200 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Returning text as MY ACCOUNT from element My Account Header
+2022-05-31 13:48:13,952 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign Out link
+2022-05-31 13:48:15,441 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 13:48:16,675 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Sign In link
+2022-05-31 13:48:16,743 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Username text field
+2022-05-31 13:48:16,808 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 13:48:16,851 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Password text field
+2022-05-31 13:48:16,901 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as Invalid Password on element Password text field
+2022-05-31 13:48:19,332 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Submit button
+2022-05-31 13:48:19,362 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Returning text as Authentication failed. from element Error Message
+2022-05-31 13:48:20,715 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Launched URL http://automationpractice.multiformis.com
+2022-05-31 13:48:22,262 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Sign In link
+2022-05-31 13:48:22,311 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Username text field
+2022-05-31 13:48:22,360 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as  on element Username text field
+2022-05-31 13:48:22,405 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Password text field
+2022-05-31 13:48:22,448 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as Password@123 on element Password text field
+2022-05-31 13:48:23,240 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Submit button
+2022-05-31 13:48:23,260 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Returning text as An email address required. from element Error Message
+2022-05-31 13:49:29,435 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 13:49:31,671 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign In link
+2022-05-31 13:49:31,738 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Username text field
+2022-05-31 13:49:31,830 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 13:49:31,909 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Password text field
+2022-05-31 13:49:31,953 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as Password@123 on element Password text field
+2022-05-31 13:49:33,805 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Submit button
+2022-05-31 13:49:33,830 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Returning text as MY ACCOUNT from element My Account Header
+2022-05-31 13:49:35,564 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign Out link
+2022-05-31 13:49:36,864 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 13:49:47,271 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Sign In link
+2022-05-31 13:49:47,341 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Username text field
+2022-05-31 13:49:47,413 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 13:49:47,483 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Password text field
+2022-05-31 13:49:47,548 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as Invalid Password on element Password text field
+2022-05-31 13:49:48,344 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Submit button
+2022-05-31 13:49:48,387 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Returning text as Authentication failed. from element Error Message
+2022-05-31 13:49:49,898 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Launched URL http://automationpractice.multiformis.com
+2022-05-31 13:49:51,255 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Sign In link
+2022-05-31 13:49:51,334 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Username text field
+2022-05-31 13:49:51,372 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as  on element Username text field
+2022-05-31 13:49:51,421 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Password text field
+2022-05-31 13:49:51,465 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as Password@123 on element Password text field
+2022-05-31 13:49:52,221 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Submit button
+2022-05-31 13:49:52,250 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Returning text as An email address required. from element Error Message
+2022-05-31 13:50:53,902 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 13:50:55,852 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign In link
+2022-05-31 13:50:55,908 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Username text field
+2022-05-31 13:50:55,996 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 13:50:56,059 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Password text field
+2022-05-31 13:50:56,122 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as Password@123 on element Password text field
+2022-05-31 13:50:57,612 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Submit button
+2022-05-31 13:50:57,633 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Returning text as MY ACCOUNT from element My Account Header
+2022-05-31 13:50:59,630 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign Out link
+2022-05-31 13:51:01,117 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 13:51:02,646 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Sign In link
+2022-05-31 13:51:02,696 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Username text field
+2022-05-31 13:51:02,756 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 13:51:02,803 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Password text field
+2022-05-31 13:51:02,852 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as Invalid Password on element Password text field
+2022-05-31 13:51:03,632 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Submit button
+2022-05-31 13:51:03,656 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Returning text as Authentication failed. from element Error Message
+2022-05-31 13:51:05,061 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Launched URL http://automationpractice.multiformis.com
+2022-05-31 13:51:06,765 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Sign In link
+2022-05-31 13:51:06,812 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Username text field
+2022-05-31 13:51:06,846 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as  on element Username text field
+2022-05-31 13:51:06,895 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Password text field
+2022-05-31 13:51:06,949 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as Password@123 on element Password text field
+2022-05-31 13:51:08,264 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Submit button
+2022-05-31 13:51:08,285 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Returning text as An email address required. from element Error Message
+2022-05-31 14:00:40,727 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 14:00:42,791 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign In link
+2022-05-31 14:00:42,850 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Username text field
+2022-05-31 14:00:42,929 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 14:00:42,994 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Password text field
+2022-05-31 14:00:43,049 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as Password@123 on element Password text field
+2022-05-31 14:00:45,154 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Submit button
+2022-05-31 14:00:45,179 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Returning text as MY ACCOUNT from element My Account Header
+2022-05-31 14:00:47,327 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign Out link
+2022-05-31 14:00:48,818 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 14:00:50,172 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Sign In link
+2022-05-31 14:00:50,225 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Username text field
+2022-05-31 14:00:50,292 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 14:00:50,337 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Password text field
+2022-05-31 14:00:50,386 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as Invalid Password on element Password text field
+2022-05-31 14:00:51,444 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Submit button
+2022-05-31 14:00:51,469 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Returning text as Authentication failed. from element Error Message
+2022-05-31 14:00:53,114 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Launched URL http://automationpractice.multiformis.com
+2022-05-31 14:00:54,696 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Sign In link
+2022-05-31 14:00:54,762 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Username text field
+2022-05-31 14:00:54,798 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as  on element Username text field
+2022-05-31 14:00:54,848 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Password text field
+2022-05-31 14:00:54,886 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as Password@123 on element Password text field
+2022-05-31 14:00:55,848 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Submit button
+2022-05-31 14:00:55,868 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Returning text as An email address required. from element Error Message
+2022-05-31 14:01:53,166 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 14:01:54,919 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign In link
+2022-05-31 14:01:54,980 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Username text field
+2022-05-31 14:01:55,059 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 14:01:55,123 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Password text field
+2022-05-31 14:01:55,175 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as Password@123 on element Password text field
+2022-05-31 14:01:56,934 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Submit button
+2022-05-31 14:01:56,959 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Returning text as MY ACCOUNT from element My Account Header
+2022-05-31 14:01:58,803 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign Out link
+2022-05-31 14:02:00,066 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 14:02:01,700 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Sign In link
+2022-05-31 14:02:01,750 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Username text field
+2022-05-31 14:02:01,811 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 14:02:01,863 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Password text field
+2022-05-31 14:02:01,907 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as Invalid Password on element Password text field
+2022-05-31 14:02:02,762 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Submit button
+2022-05-31 14:02:02,790 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Returning text as Authentication failed. from element Error Message
+2022-05-31 14:02:04,179 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Launched URL http://automationpractice.multiformis.com
+2022-05-31 14:02:05,387 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Sign In link
+2022-05-31 14:02:05,445 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Username text field
+2022-05-31 14:02:05,495 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as  on element Username text field
+2022-05-31 14:02:05,542 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Password text field
+2022-05-31 14:02:05,580 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as Password@123 on element Password text field
+2022-05-31 14:02:06,472 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Submit button
+2022-05-31 14:02:06,494 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Returning text as An email address required. from element Error Message
+2022-05-31 14:03:38,651 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 14:03:40,604 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign In link
+2022-05-31 14:03:40,673 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Username text field
+2022-05-31 14:03:40,761 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 14:03:40,830 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Password text field
+2022-05-31 14:03:40,908 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Entered value as Password@123 on element Password text field
+2022-05-31 14:03:42,717 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Submit button
+2022-05-31 14:03:42,745 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Returning text as MY ACCOUNT from element My Account Header
+2022-05-31 14:03:44,430 :INFO : test_shouldLoginUser_WhenCredentialsAreValid :Clicked on element Sign Out link
+2022-05-31 14:03:45,745 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Launched URL http://automationpractice.multiformis.com
+2022-05-31 14:03:46,952 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Sign In link
+2022-05-31 14:03:47,005 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Username text field
+2022-05-31 14:03:47,093 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-05-31 14:03:47,145 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Password text field
+2022-05-31 14:03:47,195 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Entered value as Invalid Password on element Password text field
+2022-05-31 14:03:47,931 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Clicked on element Submit button
+2022-05-31 14:03:47,954 :INFO : test_shouldNotLoginUser_WhenCredentialsAreInValid :Returning text as Authentication failed. from element Error Message
+2022-05-31 14:03:49,304 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Launched URL http://automationpractice.multiformis.com
+2022-05-31 14:03:50,542 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Sign In link
+2022-05-31 14:03:50,598 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Username text field
+2022-05-31 14:03:50,644 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as  on element Username text field
+2022-05-31 14:03:50,692 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Password text field
+2022-05-31 14:03:50,734 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Entered value as Password@123 on element Password text field
+2022-05-31 14:03:51,623 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Clicked on element Submit button
+2022-05-31 14:03:51,645 :INFO : test_shouldNotLoginUser_WhenPasswordIsBlank :Returning text as An email address required. from element Error Message
+2022-06-05 15:45:36,875 :INFO : classObject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 15:45:38,775 :INFO : classObject :Clicked on element Sign In link
+2022-06-05 15:45:38,826 :INFO : classObject :Clicked on element Username text field
+2022-06-05 15:45:38,890 :INFO : classObject :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-06-05 15:45:38,938 :INFO : classObject :Clicked on element Password text field
+2022-06-05 15:45:38,978 :INFO : classObject :Entered value as Password@123 on element Password text field
+2022-06-05 15:45:40,618 :INFO : classObject :Clicked on element Submit button
+2022-06-05 15:45:40,639 :INFO : classObject :Returning text as MY ACCOUNT from element My Account Header
+2022-06-05 15:45:43,201 :INFO : classObject :Clicked on element Sign Out link
+2022-06-05 15:45:44,680 :INFO : classObject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 15:45:44,680 :INFO : classObject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 15:45:47,367 :INFO : classObject :Clicked on element Sign In link
+2022-06-05 15:45:47,367 :INFO : classObject :Clicked on element Sign In link
+2022-06-05 15:45:47,413 :INFO : classObject :Clicked on element Username text field
+2022-06-05 15:45:47,413 :INFO : classObject :Clicked on element Username text field
+2022-06-05 15:45:47,478 :INFO : classObject :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-06-05 15:45:47,478 :INFO : classObject :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-06-05 15:45:47,522 :INFO : classObject :Clicked on element Password text field
+2022-06-05 15:45:47,522 :INFO : classObject :Clicked on element Password text field
+2022-06-05 15:45:47,567 :INFO : classObject :Entered value as Invalid Password on element Password text field
+2022-06-05 15:45:47,567 :INFO : classObject :Entered value as Invalid Password on element Password text field
+2022-06-05 15:45:48,330 :INFO : classObject :Clicked on element Submit button
+2022-06-05 15:45:48,330 :INFO : classObject :Clicked on element Submit button
+2022-06-05 15:45:48,356 :INFO : classObject :Returning text as Authentication failed. from element Error Message
+2022-06-05 15:45:48,356 :INFO : classObject :Returning text as Authentication failed. from element Error Message
+2022-06-05 15:45:49,605 :INFO : classObject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 15:45:49,605 :INFO : classObject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 15:45:49,605 :INFO : classObject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 15:45:50,922 :INFO : classObject :Clicked on element Sign In link
+2022-06-05 15:45:50,922 :INFO : classObject :Clicked on element Sign In link
+2022-06-05 15:45:50,922 :INFO : classObject :Clicked on element Sign In link
+2022-06-05 15:45:50,966 :INFO : classObject :Clicked on element Username text field
+2022-06-05 15:45:50,966 :INFO : classObject :Clicked on element Username text field
+2022-06-05 15:45:50,966 :INFO : classObject :Clicked on element Username text field
+2022-06-05 15:45:50,999 :INFO : classObject :Entered value as  on element Username text field
+2022-06-05 15:45:50,999 :INFO : classObject :Entered value as  on element Username text field
+2022-06-05 15:45:50,999 :INFO : classObject :Entered value as  on element Username text field
+2022-06-05 15:45:51,042 :INFO : classObject :Clicked on element Password text field
+2022-06-05 15:45:51,042 :INFO : classObject :Clicked on element Password text field
+2022-06-05 15:45:51,042 :INFO : classObject :Clicked on element Password text field
+2022-06-05 15:45:51,076 :INFO : classObject :Entered value as Password@123 on element Password text field
+2022-06-05 15:45:51,076 :INFO : classObject :Entered value as Password@123 on element Password text field
+2022-06-05 15:45:51,076 :INFO : classObject :Entered value as Password@123 on element Password text field
+2022-06-05 15:45:52,050 :INFO : classObject :Clicked on element Submit button
+2022-06-05 15:45:52,050 :INFO : classObject :Clicked on element Submit button
+2022-06-05 15:45:52,050 :INFO : classObject :Clicked on element Submit button
+2022-06-05 15:45:52,072 :INFO : classObject :Returning text as An email address required. from element Error Message
+2022-06-05 15:45:52,072 :INFO : classObject :Returning text as An email address required. from element Error Message
+2022-06-05 15:45:52,072 :INFO : classObject :Returning text as An email address required. from element Error Message
+2022-06-05 15:47:46,274 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 15:47:48,503 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 15:47:48,552 :INFO : classobject :Clicked on element Username text field
+2022-06-05 15:47:48,602 :INFO : classobject :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-06-05 15:47:48,667 :INFO : classobject :Clicked on element Password text field
+2022-06-05 15:47:48,701 :INFO : classobject :Entered value as Password@123 on element Password text field
+2022-06-05 15:47:50,256 :INFO : classobject :Clicked on element Submit button
+2022-06-05 15:47:50,277 :INFO : classobject :Returning text as MY ACCOUNT from element My Account Header
+2022-06-05 15:47:52,040 :INFO : classobject :Clicked on element Sign Out link
+2022-06-05 15:47:53,303 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 15:47:53,303 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 15:47:54,617 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 15:47:54,617 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 15:47:54,660 :INFO : classobject :Clicked on element Username text field
+2022-06-05 15:47:54,660 :INFO : classobject :Clicked on element Username text field
+2022-06-05 15:47:54,710 :INFO : classobject :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-06-05 15:47:54,710 :INFO : classobject :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-06-05 15:47:54,755 :INFO : classobject :Clicked on element Password text field
+2022-06-05 15:47:54,755 :INFO : classobject :Clicked on element Password text field
+2022-06-05 15:47:54,789 :INFO : classobject :Entered value as Invalid Password on element Password text field
+2022-06-05 15:47:54,789 :INFO : classobject :Entered value as Invalid Password on element Password text field
+2022-06-05 15:47:55,481 :INFO : classobject :Clicked on element Submit button
+2022-06-05 15:47:55,481 :INFO : classobject :Clicked on element Submit button
+2022-06-05 15:47:55,504 :INFO : classobject :Returning text as Authentication failed. from element Error Message
+2022-06-05 15:47:55,504 :INFO : classobject :Returning text as Authentication failed. from element Error Message
+2022-06-05 15:47:56,754 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 15:47:56,754 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 15:47:56,754 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 15:47:58,090 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 15:47:58,090 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 15:47:58,090 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 15:47:58,135 :INFO : classobject :Clicked on element Username text field
+2022-06-05 15:47:58,135 :INFO : classobject :Clicked on element Username text field
+2022-06-05 15:47:58,135 :INFO : classobject :Clicked on element Username text field
+2022-06-05 15:47:58,174 :INFO : classobject :Entered value as  on element Username text field
+2022-06-05 15:47:58,174 :INFO : classobject :Entered value as  on element Username text field
+2022-06-05 15:47:58,174 :INFO : classobject :Entered value as  on element Username text field
+2022-06-05 15:47:58,217 :INFO : classobject :Clicked on element Password text field
+2022-06-05 15:47:58,217 :INFO : classobject :Clicked on element Password text field
+2022-06-05 15:47:58,217 :INFO : classobject :Clicked on element Password text field
+2022-06-05 15:47:58,250 :INFO : classobject :Entered value as Password@123 on element Password text field
+2022-06-05 15:47:58,250 :INFO : classobject :Entered value as Password@123 on element Password text field
+2022-06-05 15:47:58,250 :INFO : classobject :Entered value as Password@123 on element Password text field
+2022-06-05 15:47:59,665 :INFO : classobject :Clicked on element Submit button
+2022-06-05 15:47:59,665 :INFO : classobject :Clicked on element Submit button
+2022-06-05 15:47:59,665 :INFO : classobject :Clicked on element Submit button
+2022-06-05 15:47:59,684 :INFO : classobject :Returning text as An email address required. from element Error Message
+2022-06-05 15:47:59,684 :INFO : classobject :Returning text as An email address required. from element Error Message
+2022-06-05 15:47:59,684 :INFO : classobject :Returning text as An email address required. from element Error Message
+2022-06-05 15:54:23,978 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 15:54:25,961 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 15:54:26,006 :INFO : classobject :Clicked on element Username text field
+2022-06-05 15:54:26,069 :INFO : classobject :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-06-05 15:54:26,125 :INFO : classobject :Clicked on element Password text field
+2022-06-05 15:54:26,162 :INFO : classobject :Entered value as Password@123 on element Password text field
+2022-06-05 15:54:27,814 :INFO : classobject :Clicked on element Submit button
+2022-06-05 15:54:27,836 :INFO : classobject :Returning text as MY ACCOUNT from element My Account Header
+2022-06-05 15:54:29,579 :INFO : classobject :Clicked on element Sign Out link
+2022-06-05 15:54:31,064 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 15:54:31,064 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 15:54:32,286 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 15:54:32,286 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 15:54:32,330 :INFO : classobject :Clicked on element Username text field
+2022-06-05 15:54:32,330 :INFO : classobject :Clicked on element Username text field
+2022-06-05 15:54:32,382 :INFO : classobject :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-06-05 15:54:32,382 :INFO : classobject :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-06-05 15:54:32,422 :INFO : classobject :Clicked on element Password text field
+2022-06-05 15:54:32,422 :INFO : classobject :Clicked on element Password text field
+2022-06-05 15:54:32,460 :INFO : classobject :Entered value as Invalid Password on element Password text field
+2022-06-05 15:54:32,460 :INFO : classobject :Entered value as Invalid Password on element Password text field
+2022-06-05 15:54:33,350 :INFO : classobject :Clicked on element Submit button
+2022-06-05 15:54:33,350 :INFO : classobject :Clicked on element Submit button
+2022-06-05 15:54:33,369 :INFO : classobject :Returning text as Authentication failed. from element Error Message
+2022-06-05 15:54:33,369 :INFO : classobject :Returning text as Authentication failed. from element Error Message
+2022-06-05 15:54:34,554 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 15:54:34,554 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 15:54:34,554 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 15:54:35,974 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 15:54:35,974 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 15:54:35,974 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 15:54:36,021 :INFO : classobject :Clicked on element Username text field
+2022-06-05 15:54:36,021 :INFO : classobject :Clicked on element Username text field
+2022-06-05 15:54:36,021 :INFO : classobject :Clicked on element Username text field
+2022-06-05 15:54:36,050 :INFO : classobject :Entered value as  on element Username text field
+2022-06-05 15:54:36,050 :INFO : classobject :Entered value as  on element Username text field
+2022-06-05 15:54:36,050 :INFO : classobject :Entered value as  on element Username text field
+2022-06-05 15:54:36,089 :INFO : classobject :Clicked on element Password text field
+2022-06-05 15:54:36,089 :INFO : classobject :Clicked on element Password text field
+2022-06-05 15:54:36,089 :INFO : classobject :Clicked on element Password text field
+2022-06-05 15:54:36,121 :INFO : classobject :Entered value as Password@123 on element Password text field
+2022-06-05 15:54:36,121 :INFO : classobject :Entered value as Password@123 on element Password text field
+2022-06-05 15:54:36,121 :INFO : classobject :Entered value as Password@123 on element Password text field
+2022-06-05 15:54:36,806 :INFO : classobject :Clicked on element Submit button
+2022-06-05 15:54:36,806 :INFO : classobject :Clicked on element Submit button
+2022-06-05 15:54:36,806 :INFO : classobject :Clicked on element Submit button
+2022-06-05 15:54:36,822 :INFO : classobject :Returning text as An email address required. from element Error Message
+2022-06-05 15:54:36,822 :INFO : classobject :Returning text as An email address required. from element Error Message
+2022-06-05 15:54:36,822 :INFO : classobject :Returning text as An email address required. from element Error Message
+2022-06-05 15:58:54,633 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 15:58:56,957 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 15:58:56,998 :INFO : classobject :Clicked on element Username text field
+2022-06-05 15:58:57,060 :INFO : classobject :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-06-05 15:58:57,116 :INFO : classobject :Clicked on element Password text field
+2022-06-05 15:58:57,153 :INFO : classobject :Entered value as Password@123 on element Password text field
+2022-06-05 15:58:58,872 :INFO : classobject :Clicked on element Submit button
+2022-06-05 15:58:58,896 :INFO : classobject :Returning text as MY ACCOUNT from element My Account Header
+2022-06-05 15:59:00,596 :INFO : classobject :Clicked on element Sign Out link
+2022-06-05 15:59:01,916 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 15:59:01,916 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 15:59:03,190 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 15:59:03,190 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 15:59:03,242 :INFO : classobject :Clicked on element Username text field
+2022-06-05 15:59:03,242 :INFO : classobject :Clicked on element Username text field
+2022-06-05 15:59:03,294 :INFO : classobject :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-06-05 15:59:03,294 :INFO : classobject :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-06-05 15:59:03,334 :INFO : classobject :Clicked on element Password text field
+2022-06-05 15:59:03,334 :INFO : classobject :Clicked on element Password text field
+2022-06-05 15:59:03,371 :INFO : classobject :Entered value as Invalid Password on element Password text field
+2022-06-05 15:59:03,371 :INFO : classobject :Entered value as Invalid Password on element Password text field
+2022-06-05 15:59:04,079 :INFO : classobject :Clicked on element Submit button
+2022-06-05 15:59:04,079 :INFO : classobject :Clicked on element Submit button
+2022-06-05 15:59:04,107 :INFO : classobject :Returning text as Authentication failed. from element Error Message
+2022-06-05 15:59:04,107 :INFO : classobject :Returning text as Authentication failed. from element Error Message
+2022-06-05 15:59:05,562 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 15:59:05,562 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 15:59:05,562 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 15:59:06,744 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 15:59:06,744 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 15:59:06,744 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 15:59:06,798 :INFO : classobject :Clicked on element Username text field
+2022-06-05 15:59:06,798 :INFO : classobject :Clicked on element Username text field
+2022-06-05 15:59:06,798 :INFO : classobject :Clicked on element Username text field
+2022-06-05 15:59:06,830 :INFO : classobject :Entered value as  on element Username text field
+2022-06-05 15:59:06,830 :INFO : classobject :Entered value as  on element Username text field
+2022-06-05 15:59:06,830 :INFO : classobject :Entered value as  on element Username text field
+2022-06-05 15:59:06,872 :INFO : classobject :Clicked on element Password text field
+2022-06-05 15:59:06,872 :INFO : classobject :Clicked on element Password text field
+2022-06-05 15:59:06,872 :INFO : classobject :Clicked on element Password text field
+2022-06-05 15:59:06,904 :INFO : classobject :Entered value as Password@123 on element Password text field
+2022-06-05 15:59:06,904 :INFO : classobject :Entered value as Password@123 on element Password text field
+2022-06-05 15:59:06,904 :INFO : classobject :Entered value as Password@123 on element Password text field
+2022-06-05 15:59:07,626 :INFO : classobject :Clicked on element Submit button
+2022-06-05 15:59:07,626 :INFO : classobject :Clicked on element Submit button
+2022-06-05 15:59:07,626 :INFO : classobject :Clicked on element Submit button
+2022-06-05 15:59:07,642 :INFO : classobject :Returning text as An email address required. from element Error Message
+2022-06-05 15:59:07,642 :INFO : classobject :Returning text as An email address required. from element Error Message
+2022-06-05 15:59:07,642 :INFO : classobject :Returning text as An email address required. from element Error Message
+2022-06-05 16:05:08,254 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 16:05:10,019 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 16:05:10,070 :INFO : classobject :Clicked on element Username text field
+2022-06-05 16:05:10,124 :INFO : classobject :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-06-05 16:05:10,194 :INFO : classobject :Clicked on element Password text field
+2022-06-05 16:05:10,229 :INFO : classobject :Entered value as Password@123 on element Password text field
+2022-06-05 16:05:11,809 :INFO : classobject :Clicked on element Submit button
+2022-06-05 16:05:11,830 :INFO : classobject :Returning text as MY ACCOUNT from element My Account Header
+2022-06-05 16:05:13,621 :INFO : classobject :Clicked on element Sign Out link
+2022-06-05 16:05:14,955 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 16:05:14,955 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 16:05:16,141 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 16:05:16,141 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 16:05:16,170 :INFO : classobject :Clicked on element Username text field
+2022-06-05 16:05:16,170 :INFO : classobject :Clicked on element Username text field
+2022-06-05 16:05:16,235 :INFO : classobject :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-06-05 16:05:16,235 :INFO : classobject :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-06-05 16:05:16,277 :INFO : classobject :Clicked on element Password text field
+2022-06-05 16:05:16,277 :INFO : classobject :Clicked on element Password text field
+2022-06-05 16:05:16,313 :INFO : classobject :Entered value as Invalid Password on element Password text field
+2022-06-05 16:05:16,313 :INFO : classobject :Entered value as Invalid Password on element Password text field
+2022-06-05 16:05:17,015 :INFO : classobject :Clicked on element Submit button
+2022-06-05 16:05:17,015 :INFO : classobject :Clicked on element Submit button
+2022-06-05 16:05:17,044 :INFO : classobject :Returning text as Authentication failed. from element Error Message
+2022-06-05 16:05:17,044 :INFO : classobject :Returning text as Authentication failed. from element Error Message
+2022-06-05 16:05:18,354 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 16:05:18,354 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 16:05:18,354 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 16:05:19,557 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 16:05:19,557 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 16:05:19,557 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 16:05:19,613 :INFO : classobject :Clicked on element Username text field
+2022-06-05 16:05:19,613 :INFO : classobject :Clicked on element Username text field
+2022-06-05 16:05:19,613 :INFO : classobject :Clicked on element Username text field
+2022-06-05 16:05:19,643 :INFO : classobject :Entered value as  on element Username text field
+2022-06-05 16:05:19,643 :INFO : classobject :Entered value as  on element Username text field
+2022-06-05 16:05:19,643 :INFO : classobject :Entered value as  on element Username text field
+2022-06-05 16:05:19,684 :INFO : classobject :Clicked on element Password text field
+2022-06-05 16:05:19,684 :INFO : classobject :Clicked on element Password text field
+2022-06-05 16:05:19,684 :INFO : classobject :Clicked on element Password text field
+2022-06-05 16:05:19,716 :INFO : classobject :Entered value as Password@123 on element Password text field
+2022-06-05 16:05:19,716 :INFO : classobject :Entered value as Password@123 on element Password text field
+2022-06-05 16:05:19,716 :INFO : classobject :Entered value as Password@123 on element Password text field
+2022-06-05 16:05:20,452 :INFO : classobject :Clicked on element Submit button
+2022-06-05 16:05:20,452 :INFO : classobject :Clicked on element Submit button
+2022-06-05 16:05:20,452 :INFO : classobject :Clicked on element Submit button
+2022-06-05 16:05:20,471 :INFO : classobject :Returning text as An email address required. from element Error Message
+2022-06-05 16:05:20,471 :INFO : classobject :Returning text as An email address required. from element Error Message
+2022-06-05 16:05:20,471 :INFO : classobject :Returning text as An email address required. from element Error Message
+2022-06-05 16:07:17,874 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 16:07:19,809 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 16:07:19,856 :INFO : classobject :Clicked on element Username text field
+2022-06-05 16:07:19,903 :INFO : classobject :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-06-05 16:07:19,950 :INFO : classobject :Clicked on element Password text field
+2022-06-05 16:07:19,982 :INFO : classobject :Entered value as Password@123 on element Password text field
+2022-06-05 16:07:21,459 :INFO : classobject :Clicked on element Submit button
+2022-06-05 16:07:21,479 :INFO : classobject :Returning text as MY ACCOUNT from element My Account Header
+2022-06-05 16:07:25,334 :INFO : classobject :Clicked on element Sign Out link
+2022-06-05 16:07:26,811 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 16:07:26,811 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 16:07:28,142 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 16:07:28,142 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 16:07:28,194 :INFO : classobject :Clicked on element Username text field
+2022-06-05 16:07:28,194 :INFO : classobject :Clicked on element Username text field
+2022-06-05 16:07:28,251 :INFO : classobject :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-06-05 16:07:28,251 :INFO : classobject :Entered value as ahmednaseem143@gmail.com on element Username text field
+2022-06-05 16:07:28,300 :INFO : classobject :Clicked on element Password text field
+2022-06-05 16:07:28,300 :INFO : classobject :Clicked on element Password text field
+2022-06-05 16:07:28,341 :INFO : classobject :Entered value as Invalid Password on element Password text field
+2022-06-05 16:07:28,341 :INFO : classobject :Entered value as Invalid Password on element Password text field
+2022-06-05 16:07:29,023 :INFO : classobject :Clicked on element Submit button
+2022-06-05 16:07:29,023 :INFO : classobject :Clicked on element Submit button
+2022-06-05 16:07:29,045 :INFO : classobject :Returning text as Authentication failed. from element Error Message
+2022-06-05 16:07:29,045 :INFO : classobject :Returning text as Authentication failed. from element Error Message
+2022-06-05 16:07:30,316 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 16:07:30,316 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 16:07:30,316 :INFO : classobject :Launched URL http://automationpractice.multiformis.com
+2022-06-05 16:07:31,502 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 16:07:31,502 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 16:07:31,502 :INFO : classobject :Clicked on element Sign In link
+2022-06-05 16:07:31,553 :INFO : classobject :Clicked on element Username text field
+2022-06-05 16:07:31,553 :INFO : classobject :Clicked on element Username text field
+2022-06-05 16:07:31,553 :INFO : classobject :Clicked on element Username text field
+2022-06-05 16:07:31,584 :INFO : classobject :Entered value as  on element Username text field
+2022-06-05 16:07:31,584 :INFO : classobject :Entered value as  on element Username text field
+2022-06-05 16:07:31,584 :INFO : classobject :Entered value as  on element Username text field
+2022-06-05 16:07:31,647 :INFO : classobject :Clicked on element Password text field
+2022-06-05 16:07:31,647 :INFO : classobject :Clicked on element Password text field
+2022-06-05 16:07:31,647 :INFO : classobject :Clicked on element Password text field
+2022-06-05 16:07:31,678 :INFO : classobject :Entered value as Password@123 on element Password text field
+2022-06-05 16:07:31,678 :INFO : classobject :Entered value as Password@123 on element Password text field
+2022-06-05 16:07:31,678 :INFO : classobject :Entered value as Password@123 on element Password text field
+2022-06-05 16:07:32,481 :INFO : classobject :Clicked on element Submit button
+2022-06-05 16:07:32,481 :INFO : classobject :Clicked on element Submit button
+2022-06-05 16:07:32,481 :INFO : classobject :Clicked on element Submit button
+2022-06-05 16:07:32,498 :INFO : classobject :Returning text as An email address required. from element Error Message
+2022-06-05 16:07:32,498 :INFO : classobject :Returning text as An email address required. from element Error Message
+2022-06-05 16:07:32,498 :INFO : classobject :Returning text as An email address required. from element Error Message
