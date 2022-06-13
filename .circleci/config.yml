@@ -24,7 +24,7 @@ jobs:
       - run: sudo pip install selenium
       - run: sudo pip install requests
       - run: 
-          command: py.test businessObjects/test_Login.py--html=reports/report.html
+          command: sudo py.test businessObjects/test_Login.py--html=reports/report.html
 
 # Invoke jobs via workflows
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
