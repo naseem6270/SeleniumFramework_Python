@@ -17,7 +17,11 @@ jobs:
     # Add steps to the job
     # See: https://circleci.com/docs/2.0/configuration-reference/#steps
     steps:
-      - browser-tools/install-chromedriver
+      - checkout
+      - run: sudo pip3 install -r requirements.txt
+      - run: sudo pip install requests
+      - run: 
+          command: py.test businessObjects/test_Login.py--html=reports/report.html
 
 # Invoke jobs via workflows
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
