@@ -19,7 +19,7 @@ jobs:
     steps:
       - checkout
       - run: mkdir test-report
-      - run: pip install pipenv
+      - run: sudo pip install pipenv
       - run: sudo pip install -r requirements.txt
       - run: sudo pip install selenium
       - run: sudo pip install requests
