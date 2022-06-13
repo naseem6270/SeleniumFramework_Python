@@ -29,7 +29,7 @@ jobs:
       - run: sudo pip install pytest
       - run: sudo pip install webdriver-manager
       - run: 
-          command: sudo python SeleniumFramework_Python/businessObjects/test_Login.py
+          command: py.test SeleniumFramework_Python/businessObjects/test_Login.py
 
 # Invoke jobs via workflows
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
