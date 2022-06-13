@@ -6,4 +6,4 @@
 1. Clone this repo
 2. Navigate to root folder
 3. pip3 install -r requirements.txt
-4. py.test --html=reports/report.html
+4. py.test businessObjects/test_Login.py--html=reports/report.html
