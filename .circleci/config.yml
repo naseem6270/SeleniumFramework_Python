@@ -46,7 +46,7 @@ jobs:
       - run: pip install urllib3      
       - run: pip install zipp
       - run: 
-          command: py.test SeleniumFramework_Python/businessObjects/test_Login.py
+          command: sudo py.test SeleniumFramework_Python/businessObjects/test_Login.py
 
 # Invoke jobs via workflows
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
