@@ -20,7 +20,7 @@ jobs:
     steps:
       - checkout
       - run: mkdir test-report
-      - run: pip install --upgrade pip && \ pip install --no-cache-dir -r requirements.txt -user
+      - run: pip install --upgrade pip && \ pip install --no-cache-dir -r requirements.txt --user
       - run: sudo pip freeze > requirements.txt
       - run: sudo pip install -r requirements.txt
       - run: sudo pip install selenium
