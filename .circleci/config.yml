@@ -19,9 +19,9 @@ jobs:
     steps:
       - checkout
       - run: mkdir test-report
-      - run: sudo pip3 install -r requirements.txt
-      - run: sudo pip3 install selenium
-      - run: sudo pip3 install requests
+      - run: sudo pip install -r requirements.txt
+      - run: sudo pip install selenium
+      - run: sudo pip install requests
       - run: 
           command: py.test businessObjects/test_Login.py--html=reports/report.html
 
