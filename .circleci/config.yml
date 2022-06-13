@@ -25,8 +25,6 @@ jobs:
       - run: sudo pip install requests
       - run: sudo pip install pytest
       - run: sudo pip install webdriver-manager
-      - run: sudo pip install attrs
-      - run: sudo pip install iniconfig
       - run: 
           command: sudo py.test SeleniumFramework_Python/businessObjects/test_Login.py
 
