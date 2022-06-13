@@ -25,7 +25,7 @@ jobs:
       - run: sudo pip install requests
       - run: sudo pip install pytest
       - run: 
-          command: sudo py.test businessObjects/test_Login.py
+          command: sudo py.test SeleniumFramework_Python/SeleniumFramework_Python/businessObjects/test_Login.py
 
 # Invoke jobs via workflows
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
