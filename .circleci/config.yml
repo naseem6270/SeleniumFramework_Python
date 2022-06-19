@@ -20,10 +20,10 @@ jobs:
     steps:
       - checkout
       - run: pip install pytest
-      # - python/install-packages:
-      #     args: pytest --user
-      #     pkg-manager: pip
-      #     pypi-cache: false
+      - python/install-packages:
+          args: pytest --user
+          pkg-manager: pip
+          pypi-cache: false
       - run: 
           command:
             pytest /businessObjects/test_Login.py
