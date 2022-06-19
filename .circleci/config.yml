@@ -19,12 +19,18 @@ jobs:
     # See: https://circleci.com/docs/2.0/configuration-reference/#steps
     steps:
       - checkout      
-      - python/install-packages:
-          args: pytest --user
-          pkg-manager: pip
-          pypi-cache: false
+      # - python/install-packages:
+      #     args: pytest --user
+      #     pkg-manager: pip
+      #     pypi-cache: false
       - run: 
-          command: python -m /businessObjects/test_Login.py
+          command:
+            python --version
+            python -m venv advanced-algorithms
+            source advanced-algorithms/bin/activate
+            pip install --upgrade pip
+            pip install pytest-cov
+            py.test /businessObjects/test_Login.py
 
 # Invoke jobs via workflows
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
