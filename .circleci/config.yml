@@ -24,9 +24,7 @@ jobs:
           pkg-manager: pip
           pypi-cache: false
       - run: mkdir test-report
-      - run: pip install --user --upgrade pip
       - run: pip freeze > requirements.txt
-      - run: pip install --user --no-cache-dir -r requirements.txt      
       - run: pip install -r requirements.txt
       - run: pip install selenium
       - run: pip install requests
