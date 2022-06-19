@@ -19,13 +19,15 @@ jobs:
     # See: https://circleci.com/docs/2.0/configuration-reference/#steps
     steps:
       - checkout
+      
+      
       - python/install-packages:
           args: pytest
           pkg-manager: pip
           pypi-cache: false
       - run: mkdir test-report
-      - run: pip freeze > requirements.txt
-      - run: pip install -r requirements.txt
+      # - run: pip freeze > requirements.txt
+      # - run: pip install -r requirements.txt
       - run: pip install selenium
       - run: pip install requests
       - run: pip install pytest
