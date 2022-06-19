@@ -23,28 +23,7 @@ jobs:
           args: pytest
           pkg-manager: pip
           pypi-cache: false
-      - run: mkdir test-report
-      - run: pip install selenium
-      - run: pip install requests
-      - run: pip install pytest
-      - run: pip install webdriver-manager
-      - run: pip install attrs
-      - run: pip install et-xmlfile
-      - run: pip install importlib-metadata
-      - run: pip install iniconfig
-      - run: pip install jdcal
-      - run: pip install more-itertools
-      - run: pip install openpyxl
-      - run: pip install packaging
-      - run: pip install pluggy
-      - run: pip install py
-      - run: pip install pyparsing
-      - run: pip install pytest-html
-      - run: pip install pytest-metadata
-      - run: pip install six
-      - run: pip install toml
-      - run: pip install urllib3      
-      - run: pip install zipp
+      - run: pip install selenium    
       - run: 
           command: python -m SeleniumFramework_Python/businessObjects/test_Login.py
 
