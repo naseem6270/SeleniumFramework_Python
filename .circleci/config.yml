@@ -25,9 +25,6 @@ jobs:
       #     pypi-cache: false
       - run: 
           command:
-            python --version
-            python -m venv advanced-algorithms
-            source advanced-algorithms/bin/activate
             pip install --upgrade pip
             pip install pytest-cov
             py.test /businessObjects/test_Login.py
