@@ -27,7 +27,7 @@ jobs:
       - run: 
           command:
             cd businessObjects
-            pytest businessObjects/test_Login.py
+            pytest test_Login.py
 
 # Invoke jobs via workflows
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
