@@ -1,35 +1,23 @@
-# Use the latest 2.1 version of CircleCI pipeline process engine.
-# See: https://circleci.com/docs/2.0/configuration-reference
 version: 2.1
-
-orbs:
-  python: circleci/python@2.0.3
-
-# Define a job to be invoked later in a workflow.
-# See: https://circleci.com/docs/2.0/configuration-reference/#jobs
-jobs:
-  example-job:
-   
-    # Specify the execution environment. You can specify an image from Dockerhub or use one of our Convenience Images from CircleCI's Developer Hub.
-    # See: https://circleci.com/docs/2.0/configuration-reference/#docker-machine-macos-windows-executor
+executors:
+  my-custom-executor:
     docker:
-    - image: circleci/python:3.6.1
+      - image: cimg/base:stable
+        auth:
+          # ensure you have first added these secrets
+          # visit app.circleci.com/settings/project/github/naseem6270/SeleniumFramework_Python/environment-variables
+          username: $DOCKER_HUB_USER
+          password: $DOCKER_HUB_PASSWORD
+jobs:
+  myfirstseleniumtest:
 
-    # Add steps to the job
-    # See: https://circleci.com/docs/2.0/configuration-reference/#steps
+    executor: my-custom-executor
     steps:
-      - checkout      
-      - python/install-packages:
-          args: pytest
-          pkg-manager: pip
-          pypi-cache: false
-      - run: pip install selenium    
-      - run: 
-          command: python -m SeleniumFramework_Python/businessObjects/test_Login.py
+      - checkout
+      - run: |
+          print("Hello World")
 
-# Invoke jobs via workflows
-# See: https://circleci.com/docs/2.0/configuration-reference/#workflows
 workflows:
-    example-workflow:
-      jobs:
-        - example-job
+  my-custom-workflow:
+    jobs:
+      - myfirstseleniumtest
