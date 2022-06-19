@@ -24,8 +24,6 @@ jobs:
           pkg-manager: pip
           pypi-cache: false
       - run: mkdir test-report
-      # - run: pip freeze > requirements.txt
-      # - run: pip install -r requirements.txt
       - run: pip install selenium
       - run: pip install requests
       - run: pip install pytest
