@@ -13,10 +13,9 @@ jobs:
           command: python -m pytest
       - persist_to_workspace:
           root: ~/project
-          paths: businessObjects
+          paths: /businessObjects
             - .
 
-  
 workflows:
   test_my_app:
     jobs:
