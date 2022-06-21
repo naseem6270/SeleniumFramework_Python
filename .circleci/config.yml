@@ -18,7 +18,7 @@ jobs:
       - run: python -m pip install pytest
       - python/install-packages:
           args: pytest
-          pkg-manager: pip
+          pkg-manager: python -m pip
           pypi-cache: false
       - run: 
           command:
